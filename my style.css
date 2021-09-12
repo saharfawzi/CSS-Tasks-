@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(197, 197, 243);
+}
+h1{
+    color:#312427;
+}
+p{
+    color:blue;
+}
+/*Not Valid*\
+-_my.div {
+}
+
+/*Not Valid*\
+-.my.div {
+}
+
+/*Not Valid*\
+-12my.div {
+}
+
+/*Not Valid*\
+-% my.div {
+}
+
+/*Not Valid*\
+-@ my.div {
+}
+
+/*Valid*\
+-my @div {
+}
+
+/*Not Valid*\
+-_my78div {
+}
+
+/*Valid*\
+-div {
+}
