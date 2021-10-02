@@ -1,0 +1,53 @@
+ 
+ BODY{
+    background: rgb(47, 47, 53)  fixed center;
+ }
+ div.desc {
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-align:left;
+    font-size: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+    div.first {
+        border: 1px solid #ccc;
+      width: 400px;
+      height: 400px;
+      background-image: url("img2.png");
+      background-repeat: no-repeat;
+      padding: 20px;
+      margin: 20px;
+    }
+    
+    div.second {
+        border: 1px solid #ccc;
+      width: 400px;
+      height: 400px;
+      background-image: url("img2.png");
+      background-repeat: repeat-y;
+      background-position:right;
+      margin: 20px;
+      padding: 20px;
+    }
+   
+    div.third {
+        border: 1px solid #ccc;
+      width: 400px;
+      height: 400px;
+      background-image: url("img2.png");
+      background-repeat: repeat-x;
+      background-position:bottom;
+      margin: 20px;
+      padding: 20px;
+    }
+    
+    div.fourth {
+        border: 1px solid #ccc;
+      width: 400px;
+      height: 400px;
+      background-image: url("img2.png");
+      background-repeat:repeat;
+      padding: 20px;
+      margin: 20px;
+    }
