@@ -1,0 +1,48 @@
+.div{
+    background-color:white;
+    margin: 20px 25px 30px;
+    padding:8px 10px 20px;
+    
+}
+div.first {
+    border: 5px;
+    border-color: red;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    width:250px;
+    height:250px;
+    float:none;
+    font-size: 10px;
+    position:relative;
+  }
+   div.second{
+       margin-bottom: 10px;
+       
+    border: 5px;
+    border-color: red;
+    border-top-style: hidden;
+    border-right-style: dotted;
+    border-bottom-style: hidden;
+    border-left-style: dotted;
+    background-color:#d6c690;
+    width:250px;
+    height:250px;
+    font-size: 10px;
+  
+  }
+  div.third{
+    border: 5px;
+    border-color: red;
+    border-top-style: dotted;
+    border-right-style: hidden;
+    border-bottom-style: solid;
+    border-left-style:hidden;
+    background-color:#7290d8;
+    width:260px;
+    height:260px;
+    font-size: 10px;
+    position:relative;
+  }
+  
