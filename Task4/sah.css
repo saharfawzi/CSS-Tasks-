@@ -1,0 +1,36 @@
+
+html{ 
+        background:url(4.jpg) no-repeat center fixed; 
+        background-size: cover;
+        filter: blur(1px) ;
+    }
+    .s1 { 
+    background:rgba(132, 8, 189, 0.767) no-repeat center; 
+    height: 200px;
+    width: 300px;
+    position: relative;
+    filter:none;
+  }
+  .s2 { 
+    background: url(4.jpg) no-repeat center; 
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    filter:none;
+  }
+  .s3 { 
+    background: url(4.jpg) no-repeat center; 
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    position: relative;
+    filter:none;
+  }
+  body { 
+    color: white; 
+    width: 400px;
+    height: 400px;
+    opacity: 8;
+    filter:none;
+  }
